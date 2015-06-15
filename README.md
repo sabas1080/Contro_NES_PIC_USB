@@ -1,6 +1,5 @@
-# Contro_NES_PIC_USB<br>
+# Contro NES PIC USB<br>
 Proyecto para convertir control de NES a USB con un PIC18F2550<br>
-
 ===============
 **MATERIAL**<br>
 ===============
@@ -15,7 +14,8 @@ Proyecto para convertir control de NES a USB con un PIC18F2550<br>
 **INSTRUCCIONES**<br>
 ===============
 
-Instructable: <br>
+Instructable: http://www.instructables.com/id/Convertir-control-NES-retro-a-USB/ <br>
+<br>
 
 * By Sabas of The Inventor's House Hackerspace<br>
 
